@@ -1,0 +1,14 @@
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\bin\Debug\net8.0\parent.exe
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\bin\Debug\net8.0\parent.deps.json
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\bin\Debug\net8.0\parent.runtimeconfig.json
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\bin\Debug\net8.0\parent.dll
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\bin\Debug\net8.0\parent.pdb
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\parent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\parent.AssemblyInfoInputs.cache
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\parent.AssemblyInfo.cs
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\parent.csproj.CoreCompileInputs.cache
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\parent.dll
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\refint\parent.dll
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\parent.pdb
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\parent.genruntimeconfig.cache
+C:\Users\sayil\OneDrive\سطح المكتب\Programming\Game Devolpment\parent\obj\Debug\net8.0\ref\parent.dll
